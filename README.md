@@ -129,10 +129,3 @@ Notes:
 
 ## Acknowledgements
 Thanks to the open-source ecosystem: Vite, React, Tailwind CSS, and lucide-react.
-
----
-
-## Try asking
-- How can I add a dark mode toggle and persist the user’s preference in Portfolio.tsx?
-- Can you suggest Tailwind utilities or a small component structure for a projects grid inside Portfolio.tsx?
-- What changes are needed in tailwind.config.js and _redirects if I deploy this on Netlify vs Vercel?
